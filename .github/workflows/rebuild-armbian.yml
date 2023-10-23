@@ -34,6 +34,10 @@ on:
           - emb3531
           - fine3399
           - firefly
+          - h66k
+          - h68k
+          - h69k
+          - h88k
           - hugsun-zm
           - ipc-r
           - king3399
